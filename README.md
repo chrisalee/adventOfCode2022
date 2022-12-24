@@ -1,4 +1,4 @@
-# adventOfCode2022
+# adventOfCode2022day1
 
 https://adventofcode.com/2022/day/1
 
